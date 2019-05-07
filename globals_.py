@@ -1,0 +1,1 @@
+rules_folder_name = 'rules'
