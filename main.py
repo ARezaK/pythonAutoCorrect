@@ -4,12 +4,10 @@ from globals_ import *
 import os
 
 dir_path = os.path.dirname(os.path.abspath(__file__))
-# print(dir_path)
-
 
 # The key combination to check
 COMBINATIONS = [
-    ['abondon', 'dicks']
+    ['testing', 'testworkssortanotreally']
 ]
 
 # The currently active modifiers
@@ -46,7 +44,7 @@ def on_press(key):
 
     if hasattr(key, 'char'): current += key.char
 
-    print("current", current)
+    # print("current", current)
 
     for COMBO in COMBINATIONS:
         if current.endswith(COMBO[0]):
