@@ -66,15 +66,10 @@ thats;that's
 theres;there's
 they're are;there are
 they're is;there is
-they;l;they'll
-they;r;they're
-they;v;they've
 theyd;they'd
-theyll;they'll
 theyll;they'll
 theyr'e;they're
 theyre;they're
-theyve;they've
 theyve;they've
 thtas;that's
 todays;today's

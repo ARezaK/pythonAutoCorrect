@@ -42,3 +42,4 @@ supllemntal;supplemental
 traveling;travelling
 tthe;the
 wheter;whether
+recieved;received
