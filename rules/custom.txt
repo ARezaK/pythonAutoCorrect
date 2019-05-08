@@ -19,6 +19,7 @@ creddit;credit
 depeds;depends
 despoted;deposited
 despotied;deposited
+detriot;detroit
 diffult;difficult
 downlaod;download
 ersons;persons
@@ -28,12 +29,14 @@ fraudulanet;fraudulent
 hllo;hello
 infio;info
 lpus;plus
+nto;not
 obivously;obviously
 outstnading;outstanding
 payemnt;payment
 processsed;processed
 recenlty;recently
 slwoly;slowly
+soemone;someone
 suer;sure
 supllemntal;supplemental
 traveling;travelling
