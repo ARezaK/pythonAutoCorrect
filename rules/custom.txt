@@ -22,7 +22,6 @@ despotied;deposited
 detriot;detroit
 diffult;difficult
 downlaod;download
-ersons;persons
 extremelty;extremely
 fo ryou;for you
 fraudulanet;fraudulent
@@ -43,3 +42,4 @@ traveling;travelling
 tthe;the
 wheter;whether
 recieved;received
+
