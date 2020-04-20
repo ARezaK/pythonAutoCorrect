@@ -19,7 +19,7 @@ keyboard = Controller()
 for f_ in os.listdir(os.path.join(dir_path, rules_folder_name)):
     with open(os.path.join(dir_path, rules_folder_name, f_)) as rules:
         for rule in rules.readlines():
-            if rule[0] != ';':
+            if rule[0] != ';' and rule[0] != '' and rule[0] != '\n':
                 COMBINATIONS.append([rule.split(';')[0], rule.split(';')[1].strip()])
 
 

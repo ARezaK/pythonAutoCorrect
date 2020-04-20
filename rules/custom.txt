@@ -42,3 +42,6 @@ traveling;travelling
 tthe;the
 wheter;whether
 recieved;received
+psot;spot
+opneed;opened
+

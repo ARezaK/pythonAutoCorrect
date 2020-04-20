@@ -2556,7 +2556,6 @@ necesary;necessary
 nessecary;necessary
 necessiate;necessitate
 neccessities;necessities
-ened;need
 neglible;negligible
 negligable;negligible
 negociable;negotiable
@@ -3391,7 +3390,6 @@ rininging;ringing
 rockerfeller;Rockefeller
 rococco;rococo
 roomate;roommate
-rised;rose
 rougly;roughly
 rudimentatry;rudimentary
 rulle;rule
