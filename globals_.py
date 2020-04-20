@@ -1,8 +1,10 @@
 from sys import platform as sysplatform
 import os
-import win32clipboard
 import subprocess
 import time
+
+if sysplatform != "darwin":
+    import win32clipboard
 
 rules_folder_name = 'rules'
 
